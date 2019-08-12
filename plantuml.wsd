@@ -1,0 +1,13 @@
+@startuml
+
+title 나의 다이어그램
+
+A->B: 궝숭잔
+B->C: 미친놈
+
+
+
+
+
+
+@enduml
